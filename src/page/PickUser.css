@@ -1,0 +1,26 @@
+.searchWrapper {
+    border: none !important;
+    outline: none !important;
+    padding: 0 !important;
+}
+
+.search-wrapper {
+    border: none !important;
+    outline: none !important;
+    border-bottom: 3px solid rgb(73, 11, 243) !important;
+}
+
+.highlightOption {
+    background-color: transparent !important;
+    color: black !important;
+}
+
+.highlightOption:hover {
+    background-color: rgb(225, 224, 224) !important;
+    color: rgb(4, 4, 4) !important;
+}
+
+.option:hover {
+    background-color: rgb(204, 202, 202) !important;
+    color: black !important;
+}
